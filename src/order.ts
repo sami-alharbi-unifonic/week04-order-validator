@@ -6,7 +6,7 @@ import type {
 } from "./types";
 
 export const CURRENCY = "RSD" as const;
-export const SHIPPING_CENTS = 600;
+export const SHIPPING_CENTS = 500;
 export const FREE_SHIPPING_OVER_CENTS = 10000;
 export const VAT_PERCENT = 20;
 
