@@ -1,0 +1,6 @@
+[
+  { "sku": "SKU-103", "quantity": 1 },
+  { "sku": "SKU-999", "quantity": 1 },
+  { "sku": "SKU-102", "quantity": 3 },
+  { "sku": "SKU-101", "quantity": 0 }
+]

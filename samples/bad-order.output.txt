@@ -1,0 +1,5 @@
+Order has 4 problems:
+1. [OUT_OF_STOCK] Line 1: SKU-103 (Monitor) is out of stock.
+2. [UNKNOWN_SKU] Line 2: SKU "SKU-999" does not exist in the catalog.
+3. [INSUFFICIENT_STOCK] Line 3: SKU-102 (Keyboard) you asked for 3 but only 2 in stock.
+4. [INVALID_QUANTITY] Line 4: quantity for "SKU-101" must be a whole number greater than 0, but got 0.

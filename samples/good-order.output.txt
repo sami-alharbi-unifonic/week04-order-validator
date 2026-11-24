@@ -1,0 +1,5 @@
+Order is valid.
+Subtotal:     131.97 RSD
+Shipping:     0.00 RSD
+Total:        131.97 RSD
+VAT included: 22.00 RSD
