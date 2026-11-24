@@ -1,0 +1,5 @@
+[
+  { "sku": "SKU-101", "name": "Mouse", "priceCents": 2599, "stock": 8 },
+  { "sku": "SKU-102", "name": "Keyboard", "priceCents": 7999, "stock": 2 },
+  { "sku": "SKU-103", "name": "Monitor", "priceCents": 45999, "stock": 0 }
+]
